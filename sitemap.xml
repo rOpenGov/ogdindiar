@@ -1,66 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/404.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/LICENSE-text.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/articles/basic-usage-vignette.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/articles/index.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/articles/search-functionality.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/authors.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/index.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/reference/download_dataset.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/reference/fetch_data.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/reference/get_JSON_doc.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/reference/get_count.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/reference/get_data.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/reference/get_datasets_from_a_catalog.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/reference/get_field_names.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/reference/get_field_type.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/reference/index.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/reference/ogdindia_api_key.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/reference/ogdindiar.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/reference/rectify_field_type.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/reference/search_for_datasets.html</loc>
-  </url>
-  <url>
-    <loc>https://ropengov.github.io/ogdindiar/reference/to_data_frame.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://ropengov.github.io/ogdindiar/404.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/LICENSE-text.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/articles/basic-usage-vignette.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/articles/index.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/articles/search-functionality.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/authors.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/index.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/reference/download_dataset.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/reference/fetch_data.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/reference/get_JSON_doc.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/reference/get_count.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/reference/get_data.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/reference/get_datasets_from_a_catalog.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/reference/get_field_names.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/reference/get_field_type.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/reference/index.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/reference/ogdindia_api_key.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/reference/ogdindiar.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/reference/rectify_field_type.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/reference/search_for_datasets.html</loc></url>
+<url><loc>https://ropengov.github.io/ogdindiar/reference/to_data_frame.html</loc></url>
 </urlset>
+
