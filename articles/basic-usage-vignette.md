@@ -10,6 +10,7 @@ API](https://data.gov.in/catalogs#path=is_api/1).
 ## Basic Usage
 
 ``` r
+
 library(ogdindiar)
 ```
 
@@ -38,6 +39,7 @@ Once you have figured out the resource id, you can download that dataset
 as follows:
 
 ``` r
+
 mean_temp_data = fetch_data(res_id = "98fe9271-a59d-4834-b05b-fd5ddb94ac01")
 ```
 
@@ -46,6 +48,7 @@ This function returns a list of 2 elements.
 - The first element is the data
 
 ``` r
+
 knitr::kable(head(mean_temp_data[[1]]))
 ```
 
@@ -62,6 +65,7 @@ knitr::kable(head(mean_temp_data[[1]]))
   columns.
 
 ``` r
+
 knitr::kable(mean_temp_data[[2]])
 ```
 
@@ -92,6 +96,7 @@ function. Currently you can use -
 Following example illustrates this -
 
 ``` r
+
 mean_temp_25 = fetch_data(res_id = "98fe9271-a59d-4834-b05b-fd5ddb94ac01",
                         filter = c("annual" = "25"),
                         select = c("year", "annual", "jan_feb", "mar_may", "jun_sep", "oct_dec"),
@@ -102,6 +107,7 @@ mean_temp_25 = fetch_data(res_id = "98fe9271-a59d-4834-b05b-fd5ddb94ac01",
 The returned dataset -
 
 ``` r
+
 knitr::kable(head(mean_temp_25[[1]]))
 ```
 
@@ -116,6 +122,7 @@ knitr::kable(head(mean_temp_25[[1]]))
 Metadata about the returned dataset
 
 ``` r
+
 knitr::kable(mean_temp_25[[2]])
 ```
 

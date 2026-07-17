@@ -58,6 +58,7 @@ the search pages and then catalogs, to return a data.frame with
 information about the datasets.
 
 ``` r
+
 search_for_datasets('train usage')
 ```
 
@@ -99,6 +100,7 @@ remaining catalogs and pages of datasets, once the `limit_datasets`
 value has been reached.
 
 ``` r
+
 search_for_datasets(search_terms = c('state', 'gdp'),
                     limit_catalog_pages = 1,
                     limit_catalogs = 3,
@@ -125,6 +127,7 @@ judgement to choose few catalogs and then run
 datasets.
 
 ``` r
+
 search_for_datasets(search_terms = c('state', 'gdp'),
                     limit_catalog_pages = 2,
                     return_catalog_list = TRUE)
@@ -139,6 +142,7 @@ search_for_datasets(search_terms = c('state', 'gdp'),
 Use this function to get the list of datasets from a particular catalog.
 
 ``` r
+
 get_datasets_from_a_catalog(
   'https://data.gov.in/catalog/session-wise-statistical-information-relating-questions-rajya-sabha',
   limit_dataset_pages = 7, limit_datasets = 10)

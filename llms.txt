@@ -35,6 +35,7 @@ This package is currently available on github, you can install the
 latest development version as follows:
 
 ``` r
+
 library(devtools)
 devtools::install_github("steadyfish/ogdindiar")
 ```
@@ -44,6 +45,7 @@ the `OGDINDIA_API_KEY` as shown in [Prerequisite](#prerequisite) section
 above. You can then install the package as follows:
 
 ``` r
+
 library(devtools)
 devtools::install_github("steadyfish/ogdindiar", build_vignettes = TRUE) 
 ```
@@ -58,6 +60,7 @@ Otherwise, you can run the following, if you have installed the package
 with `build_vignettes = TRUE` option -
 
 ``` r
+
 vignette("basic-usage-vignette")
 vignette("search-functionality")
 ```
